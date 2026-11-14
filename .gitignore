@@ -25,6 +25,7 @@ migrate_working_dir/
 #.vscode/
 
 # Flutter/Dart/Pub related
+.fvm/
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
@@ -55,3 +56,6 @@ android/build/reports/problems/
 **/macos/Pods/
 **/ios/Podfile.lock
 **/macos/Podfile.lock
+
+# personal doc
+/doc
